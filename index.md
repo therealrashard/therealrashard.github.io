@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{% include_relative hardware.md %}
-{% include_relative fonts.md %}
+{% include_relative _includes/hardware.md %}
+{% include_relative _includes/fonts.md %}
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
