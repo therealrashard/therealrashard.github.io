@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include_relative hardware.md %}
+{% include_relative fonts.md %}
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
